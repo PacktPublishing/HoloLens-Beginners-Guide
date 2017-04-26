@@ -14,19 +14,7 @@ Chapter 1 and 10 does not contain any code files.
 ### Software Hardware Requirements
 |Chaptet|Software (with version)|Hardware|OS|
 |-------|-----------------------|--------|--|
-|All chapters|HoloLens Emulator|64-bit Windows 10 Pro, Enterprise, or Education (The Home edition does not support Hyper-V)
-64-bit CPU
-8 GB of RAM or more
-In the BIOS, the following features must be supported and enabled:
-Hardware-assisted virtualization
-Second Level Address Translation (SLAT)
-Hardware-based Data Execution Prevention (DEP)
-GPU (The emulator might work with an unsupported GPU, but will be significantly slower)
-DirectX 11.0 or later
-WDDM 1.2 driver or later
-OR
-Hololens
-|Windows 10 Pro|
+|All chapters|HoloLens Emulator|64-bit Windows 10 Pro, Enterprise, or Education (The Home edition does not support Hyper-V) 64-bit CPU 8 GB of RAM or more In the BIOS, the following features must be supported and enabled: Hardware-assisted virtualization Second Level Address Translation (SLAT) Hardware-based Data Execution Prevention (DEP) GPU (The emulator might work with an unsupported GPU, but will be significantly slower) DirectX 11.0 or later WDDM 1.2 driver or later OR Hololens|Windows 10 Pro|
 
 ### Related Books
 
